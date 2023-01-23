@@ -1,5 +1,5 @@
-# elk-animplayer
-** RedM resource / script for testing and finding animations. **
+
+# RedM resource / script for testing and finding animations.
 
 ![alt text](https://cdn.discordapp.com/attachments/919337262829936691/1067199994962137260/image.png)
 

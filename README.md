@@ -1,7 +1,7 @@
 # elk-animplayer
 ** RedM resource / script for testing and finding animations. **
 
-https://cdn.discordapp.com/attachments/919337262829936691/1067199994962137260/image.png
+image.png
 
 This resource is an simple resource working for RedM. 
 This will help you navigate the endless animations built into rdr2. 

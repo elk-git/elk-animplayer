@@ -1,5 +1,5 @@
 
-# RedM resource / script for testing and finding animations.
+# RedM resource for testing animation dictionaries.
 
 ![alt text](https://cdn.discordapp.com/attachments/919337262829936691/1067199994962137260/image.png)
 
@@ -9,7 +9,7 @@ This will help you navigate the endless animations built into rdr2.
 A full animationlist can be found -> https://rdr2.mooshe.tv/animations/ 
 ```
 
-To use the script, type /animplayer in the chat. The nui will be brought up, which can be exited by pressing ESCAPE. This resource is simple but is a nice add to a dev-server in the making of trying new animations to add into an already working animation script for roleplaying.
+To use the script, type /animplayer in the chat. The nui will be brought up, which can be exited by pressing ESCAPE.
 
 > This is essential in finding new animations, yet nothing about this can be found on github nor cfx. Just one script thats outdated, hence why i created this.
 

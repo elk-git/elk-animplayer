@@ -1,5 +1,5 @@
 
-# RedM resource for testing animation dictionaries.
+# RedM resource for testing animation dictionaries with simple NUI.
 
 ![alt text](https://cdn.discordapp.com/attachments/919337262829936691/1067199994962137260/image.png)
 

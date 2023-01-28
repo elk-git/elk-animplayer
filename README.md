@@ -1,6 +1,6 @@
 # RedM resource for testing animation dictionaries with simple NUI.
 
-![alt text](https://cdn.discordapp.com/attachments/919337262829936691/1067199994962137260/image.png)
+![alt text](https://cdn.discordapp.com/attachments/1059980700155129868/1069037522862231633/image.png)
 
 This resource is an simple resource working for RedM.
 This will help you navigate the endless animations built into rdr2.

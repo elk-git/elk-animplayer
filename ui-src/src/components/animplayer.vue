@@ -3,6 +3,7 @@ import { ref, onMounted } from "vue";
 
 let animDict = ref("");
 let animName = ref("");
+let animFlag = ref();
 let show = ref(false);
 
 onMounted(() => {
@@ -32,6 +33,7 @@ function play() {
     body: JSON.stringify({
       name: animName.value,
       dict: animDict.value,
+      flag: animFlag.value,
     }),
   }).then((resp) => {});
 }
@@ -50,6 +52,10 @@ function play() {
         <div class="animationName animer">
           <span>Animation Name</span>
           <input v-model="animName" type="text" />
+        </div>
+        <div class="anim-flag animer">
+          <span>Flag</span>
+          <input class="animflaginput" v-model="animFlag" type="text" />
         </div>
       </div>
       <div class="button">
@@ -72,13 +78,16 @@ function play() {
 
 .container {
   width: 400px;
-  height: 200px;
+  height: auto;
   background: #2f3542f1;
   display: flex;
   flex-direction: column;
   align-items: centeR;
+  gap: 20px;
+  margin-left: 25%;
   border-radius: 5px;
   overflow: hidden;
+  padding: 20px 0px;
 }
 
 .title {
@@ -90,11 +99,19 @@ function play() {
 .animplayer {
   display: flex;
   flex-direction: column;
-  margin-top: 10%;
+  margin-top: 0%;
   background: #a4b0becc;
   height: fit-content;
   padding: 10px;
   border-radius: 5px;
+}
+
+.anim-flag {
+  display: flex;
+  gap: 10px;
+}
+.animflaginput {
+  width: 50px !important;
 }
 
 .animDictionary {
@@ -127,7 +144,6 @@ function play() {
   width: 50px;
   height: 50px;
   margin-left: 20%;
-  margin-top: 5%;
 }
 .button button {
   width: 100px;

@@ -15,4 +15,4 @@ To use the script, type /animplayer in the chat. The nui will be brought up, whi
 > This is essential in finding new animations, yet nothing about this can be found on github nor cfx. Just one script thats outdated, hence why i created this.
 
 This script is free to use, but not to publish as your own.
-If you are having any questions or issues, please raise them here on github issues, and ill or others will assist you!
+If you are having any questions or issues, please raise them here on github, and ill or others will assist you!

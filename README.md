@@ -16,3 +16,5 @@ To use the script, type /animplayer in the chat. The nui will be brought up, whi
 
 This script is free to use, but not to publish as your own.
 If you are having any questions or issues, please raise them here on github, and ill or others will assist you!
+
+:)
